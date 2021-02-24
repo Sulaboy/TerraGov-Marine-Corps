@@ -4,7 +4,7 @@
 	icon_state = "tweezers"
 	item_state = "tweezers"
 	flags_item = NOBLUDGEON
-	w_class = WEIGHT_CLASS_SMALL
+	w_class = WEIGHT_CLASS_TINY
 
 /obj/item/tweezers/Initialize()
 	. = ..()

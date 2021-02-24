@@ -382,6 +382,7 @@
 		/obj/item/flashlight/pen,
 		/obj/item/storage/pill_bottle/packet,
 		/obj/item/reagent_containers/hypospray,
+		/obj/item/tweezers,
 	)
 
 /obj/item/storage/pouch/medical/full/Initialize()
@@ -488,6 +489,7 @@
 		/obj/item/flashlight/pen,
 		/obj/item/storage/pill_bottle/packet,
 		/obj/item/reagent_containers/hypospray,
+		/obj/item/tweezers,
 	)
 
 /obj/item/storage/pouch/medkit/full/Initialize()
