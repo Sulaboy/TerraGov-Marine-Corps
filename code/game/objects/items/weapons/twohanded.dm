@@ -275,3 +275,18 @@
 	desc = "A huge, powerful blade on a metallic pole. Mysterious writing is carved into the weapon. This one is ancient and has suffered serious acid damage, making it near-useless."
 	force = 18
 	force_wielded = 28
+
+
+/obj/item/weapon/twohanded/tweezer
+	name = "\improper comically large tweezers"
+	desc = "Due to an improper size measurements these comically large tweezers were ordered for medical staff of the TGMC. This set of tweezers appears to be the only remaining set affected by this error"
+	icon_state = "largetweezers"
+	item_state = "largetweezers"
+	force = 10
+	w_class = WEIGHT_CLASS_BULKY
+	flags_equip_slot = ITEM_SLOT_BACK
+	force_wielded = 20
+	throwforce = 5
+	throw_speed = 3
+	hitsound = 'sound/weapons/bladeslice.ogg'
+	attack_verb = list("tweezered","plucked","pulled")

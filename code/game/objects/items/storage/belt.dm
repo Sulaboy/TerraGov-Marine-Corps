@@ -121,6 +121,7 @@
 		/obj/item/storage/pill_bottle/packet,
 		/obj/item/roller,
 		/obj/item/storage/belt/medical,
+		/obj/item/tweezers,
 	)
 
 /obj/item/storage/belt/medical/Initialize()
@@ -159,6 +160,7 @@
 		/obj/item/storage/pill_bottle/packet,
 		/obj/item/stack/medical,
 		/obj/item/storage/belt/medical,
+		/obj/item/tweezers,
 	)
 
 /obj/item/storage/belt/combatLifesaver/Initialize()  //The belt, with all it's magic inside!
@@ -202,7 +204,8 @@
 		/obj/item/reagent_containers/hypospray/autoinjector,
 		/obj/item/storage/pill_bottle/packet,
 		/obj/item/stack/medical,
-		/obj/item/storage/belt/medical
+		/obj/item/storage/belt/medical,
+		/obj/item/tweezers,
 	)
 
 /obj/item/storage/belt/medicLifesaver/Initialize()  //The belt, with all it's magic inside!
